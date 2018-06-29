@@ -6,7 +6,7 @@ class FaveSnackers extends Component {
     constructor() {
         super()
         this.state = {
-            server: 'http://localhost:3001',
+            server: 'https://desknibbles.herokuapp.com',
             faveSnackers: []
         }
     }

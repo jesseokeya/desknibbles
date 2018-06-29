@@ -7,10 +7,10 @@ class Solution extends Component {
     constructor() {
         super()
         this.state = {
-            realStocked: [1, 2, 3, 4, 5, 6, 7, 6],
+            realStocked: [],
             emails: [],
             totalPrice: '',
-            server: 'http://localhost:3001'
+            server: 'https://desknibbles.herokuapp.com'
         }
         this.filter = this.filter.bind(this)
     }
