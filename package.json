@@ -1,0 +1,23 @@
+{
+  "name": "desk-nibble",
+  "version": "1.0.0",
+  "description": "snack data analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jesse Okeya",
+  "license": "Apache-2.0",
+  "keywords": [
+    "html",
+    "js"
+  ],
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.4",
+    "request": "^2.85.0"
+  }
+}

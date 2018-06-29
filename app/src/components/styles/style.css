@@ -1,0 +1,29 @@
+.btn-primary {
+    background-color: #fc5a5d;
+    border-color: #fc5a5d;
+}
+  
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    background-color: #fc5a5d;
+    border-color: #fc5a5d;
+}
+
+.navbar {
+    background-color: #fc5a5d;
+}
+
+body {
+    background-color: #F8F9F9;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tbl-flw {
+    overflow: scroll;
+}
+
+.space-left {
+    margin-left: 3px;
+}
